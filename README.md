@@ -7,7 +7,7 @@ Print the data type of each variable using the type() function.
 
 Demonstrate type conversion between integers and floats.
 
-3. **control_structures.py**
+2. **control_structures.py**
 
 Prompt the user to enter an integer and determine whether it is even or odd.
 
@@ -15,7 +15,7 @@ Use a for loop to generate and display even numbers from 1 to 50.
 
 Use a while loop to print numbers in reverse order from 10 to 1.
 
-5. **modular_functions.py**
+3. **modular_functions.py**
    
 Implement a function to calculate the area of different shapes based on input parameters.
 
@@ -23,7 +23,7 @@ Support area calculations for circles, rectangles, and triangles.
 
 Handle invalid shape inputs gracefully.
 
-6.** numpy_basics.py**
+4.** numpy_basics.py**
 
 Import NumPy
 
