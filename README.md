@@ -20,6 +20,14 @@ Support area calculations for circles, rectangles, and triangles.
 
 Handle invalid shape inputs gracefully.
 
+6.** numpy_basics.py**
+Import NumPy
+
+Create a NumPy Array
+
+Determine the Data Type
+
+Print the Arra
 **HOW TO RUN THE SCRIPTS**
 Install Python 3.
 
@@ -42,11 +50,8 @@ Implementing loops (for and while) to handle repetitive tasks.
 
 Using conditional statements to process user input dynamically.
 
-Writing modular functions with default parameters.
+How to Utilize the math module for mathematical operations like math.pi.
 
-Utilizing the math module for mathematical operations like math.pi.
+How Convert a Python list into a NumPy array using np.array().
 
-
-String formarting using the formart method
-
-Utilising the match statements in python as a substitute for switch statement in other languages
+How to Utilize the NumPy library for array operations
