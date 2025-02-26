@@ -1,5 +1,6 @@
 **OBJECTIVES OF THE SCRIPTS**
 1. **datatypes.py**
+2. 
 Define variables of different data types in Python.
 
 Print the data type of each variable using the type() function.
@@ -7,6 +8,7 @@ Print the data type of each variable using the type() function.
 Demonstrate type conversion between integers and floats.
 
 3. **control_structures.py**
+4. 
 Prompt the user to enter an integer and determine whether it is even or odd.
 
 Use a for loop to generate and display even numbers from 1 to 50.
@@ -14,6 +16,7 @@ Use a for loop to generate and display even numbers from 1 to 50.
 Use a while loop to print numbers in reverse order from 10 to 1.
 
 5. **modular_functions.py**
+   
 Implement a function to calculate the area of different shapes based on input parameters.
 
 Support area calculations for circles, rectangles, and triangles.
@@ -21,6 +24,7 @@ Support area calculations for circles, rectangles, and triangles.
 Handle invalid shape inputs gracefully.
 
 6.** numpy_basics.py**
+
 Import NumPy
 
 Create a NumPy Array
@@ -30,6 +34,7 @@ Determine the Data Type
 Print the Array
 
 **HOW TO RUN THE SCRIPTS**
+
 Install Python 3.
 
 Copy the script into a Python file, such as data_types.py
@@ -41,6 +46,7 @@ Run the script using the command: python script_name example python data_types.p
 
 
 **LEARNING OUTCOMES**
+
 Understanding fundamental data types in Python.
 
 Using the type() function to identify variable types.
