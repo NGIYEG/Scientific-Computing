@@ -23,7 +23,7 @@ Support area calculations for circles, rectangles, and triangles.
 
 Handle invalid shape inputs gracefully.
 
-4.** numpy_basics.py**
+4. **numpy_basics.py**
 
 Import NumPy
 
