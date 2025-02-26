@@ -23,13 +23,10 @@ for i in range(1,51):
 # printing the list
 print(even_numbers)
 
-#  a while loop that print numbers from 10 down to 1 in reverse order using a list.
+#  a while loop that print numbers from 10 down to 1 .
 
-list2=[]
+
 number1=10
 while number1>0:
-    list2.append(number1)
+    print(number1)
     number1-=1
-list2.reverse()    #reversing the list
-print(list2)
-
