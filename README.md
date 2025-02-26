@@ -1,6 +1,6 @@
 **OBJECTIVES OF THE SCRIPTS**
 1. **datatypes.py**
-2. 
+
 Define variables of different data types in Python.
 
 Print the data type of each variable using the type() function.
@@ -8,7 +8,7 @@ Print the data type of each variable using the type() function.
 Demonstrate type conversion between integers and floats.
 
 3. **control_structures.py**
-4. 
+
 Prompt the user to enter an integer and determine whether it is even or odd.
 
 Use a for loop to generate and display even numbers from 1 to 50.
