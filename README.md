@@ -27,7 +27,8 @@ Create a NumPy Array
 
 Determine the Data Type
 
-Print the Arra
+Print the Array
+
 **HOW TO RUN THE SCRIPTS**
 Install Python 3.
 
