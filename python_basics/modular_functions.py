@@ -15,7 +15,14 @@ def calculate_area(shape,dimension1,dimension2=0):
 
 #  function calls to test different shapes and prints the results.
       
-print('Circle: {}'.format(calculate_area("circle", 7)))
-print('Rectangle:{}'.format(calculate_area("rectangle",12,5)))
-print('Triangle: {}'.format(calculate_area("triangle", 8, 4)))
-print('Others:{}'.format(calculate_area("oval",9)))
+
+
+print("Circle: {}\nRectangle: {}\nTriangle: {}\nOthers: {}".format(calculate_area("circle", 7),calculate_area("rectangle", 12, 5),calculate_area("triangle", 8, 4),calculate_area("oval", 9)))
+ 
+ 
+#  Alternatively
+ 
+# print('Circle: {}'.format(calculate_area("circle", 7)))
+# print('Rectangle:{}'.format(calculate_area("rectangle",12,5)))
+# print('Triangle: {}'.format(calculate_area("triangle", 8, 4)))
+# print('Others:{}'.format(calculate_area("oval",9)))
